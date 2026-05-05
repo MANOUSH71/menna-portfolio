@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+execution.log
+screenshot.png
+verify_app.py
